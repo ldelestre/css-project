@@ -1,0 +1,28 @@
+.button-position {
+	margin-top: 25vh;
+	text-align: center;
+}
+
+.button {
+	position: relative;
+	background: #c6c6c6;
+	border-radius: 10px;
+	display: inline-block;
+	cursor: pointer;
+	font-family: futura, verdana;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	padding: 8px 25px;
+	text-decoration: none;
+	text-align: center;
+	width: 90px;
+}
+
+.button:hover {
+	background-color:#adadad;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
